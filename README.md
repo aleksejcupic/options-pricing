@@ -2,7 +2,7 @@
 
 American and European option pricing via Least-Squares Monte Carlo (LSM) and Black-Scholes. Interactive Streamlit demo with four tabs: LSM pricer, Black-Scholes pricer, side-by-side comparison, and Greeks visualizer.
 
-**Live demo:** [lsm-pricing-options.streamlit.app](https://lsm-pricing-options.streamlit.app/) &nbsp;|&nbsp; **Paper:** [Longstaff, Schwartz 2001](https://doi.org/10.1093/rfs/14.1.113)
+**Live demo:** [options-pricing-cupic.streamlit.app](https://options-pricing-cupic.streamlit.app/) &nbsp;|&nbsp; **Paper:** [Longstaff, Schwartz 2001](https://doi.org/10.1093/rfs/14.1.113)
 
 ---
 
